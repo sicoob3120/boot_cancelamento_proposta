@@ -7,14 +7,18 @@ import pytesseract
 import pandas as pd
 import cv2
 import re
-
+import logging
+import socket
+import getpass
 
 class CancelCred:
     def __init__(self):
         pyautogui.PAUSE = 2
+        self.usuario_logado = getpass.getuser()
         pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
-        self.caminho_imagens = r'C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito'
-        self.caminho_dir = r'C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito'
+        self.caminho_imagens = rf'C:\Users\{self.usuario_logado}\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito'
+        self.caminho_dir = rf'C:\Users\{self.usuario_logado}\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\boot_cancelamento_proposta'
+        self.caminho_log = rf'C:\Users\{self.usuario_logado}\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Logs'
 
         self.img_user = os.path.join(self.caminho_imagens, 'user.png')
         self.img_senha = os.path.join(self.caminho_imagens, 'senha.png')
@@ -56,6 +60,23 @@ class CancelCred:
         self.img_motivo = os.path.join(self.caminho_imagens, 'motivo.png')
         self.img_limpar = os.path.join(self.caminho_imagens, 'limpar.png')
         self.btn_sim = os.path.join(self.caminho_imagens, 'btn_sim.png')
+
+        logging.basicConfig(
+            filename=os.path.join(self.caminho_log,'cancelamento_propostas.log'),
+            filemode='a',
+            level=logging.INFO,
+            format='%(asctime)s - %(levelname)s - %(message)s',
+            datefmt='%d/%m/%Y %H:%M:%S'
+        )
+
+    def get_local_ip(self):
+        try:
+            hostname = socket.gethostname()
+            ip_address = socket.gethostbyname(hostname)
+            return ip_address
+        except Exception as e:
+            logging.error("Erro ao obter IP da máquina", exc_info=True)
+            return "IP não identificado"
     
     def open_consignado(self):
             try:
@@ -78,7 +99,7 @@ class CancelCred:
                 self.escolher_fase()                
 
             except Exception as e:
-                print(f"Erro ao realizar a automação!", e) 
+                logging.error(f"Erro ao realizar a automação!", e) 
 
     def cancelar(self):
         try:
@@ -96,7 +117,7 @@ class CancelCred:
             time.sleep(1)
         
         except Exception as e:
-            print(f"Erro ao realizar a automação!", e) 
+            logging.error(f"Erro ao realizar a automação!", e) 
 
     def acessar_plt_cred(self):
         try:
@@ -110,7 +131,7 @@ class CancelCred:
             time.sleep(3)
 
         except Exception as e:
-            print(f"Erro ao acessar a plataforma!", e) 
+            logging.error(f"Erro ao acessar a plataforma!", e) 
 
     def login_sisbr(self, usuario, senha):
             pyautogui.PAUSE = 2
@@ -130,6 +151,12 @@ class CancelCred:
             pyautogui.write(senha) 
             pyautogui.press('enter')
             time.sleep(10)
+
+            # Iniciar arquivo de LOG
+            ip = self.get_local_ip()
+            hora_login = dt.now().strftime("%d/%m/%Y %H:%M:%S")
+            logging.info("")  # <-- adiciona linha em branco no arquivo de log
+            logging.info(f"Login realizado - Usuário: {usuario} | IP: {ip} | Horário: {hora_login}")
 
     def escolher_datas(self, dia_inicial, dia_final):
         time.sleep(2)
@@ -165,7 +192,7 @@ class CancelCred:
             self.locate_image(self.img_procurar)
             time.sleep(2)
             self.locate_image(self.img_btn_ok_2)
-            print(f'Está na fase {fase}')
+            logging.info(f'Está na fase {fase}')
             
             while True:
                 # Capturar a tela para verificar a presença de propostas
@@ -177,7 +204,7 @@ class CancelCred:
                 
                 # Verificar se o texto extraído contém a palavra-chave da proposta
                 if "Proposta" in screen_text_proposta :                            
-                    print("Proposta encontrada na fase de Proposta, processando...")               
+                    logging.debug("Proposta encontrada na fase de Proposta, processando...")               
                     # Posicionar mouse e abrir a proposta
                     self.locate_image(self.img_fase_proposta)  
                     self.locate_image(self.img_abrir_proposta) 
@@ -201,7 +228,7 @@ class CancelCred:
                     start_time = time.time()
                     start_time_str = dt.now().strftime("%d/%m/%Y %H:%M:%S")
 
-                    print("Proposta encontrada na fase de Documentação, processando...") 
+                    logging.debug("Proposta encontrada na fase de Documentação, processando...") 
                     self.locate_image(self.img_fase_documentacao)
                     self.locate_image(self.img_abrir_proposta)
                     time.sleep(5)                     
@@ -238,7 +265,7 @@ class CancelCred:
                     start_time = time.time()
                     start_time_str = dt.now().strftime("%d/%m/%Y %H:%M:%S")
                     
-                    print("Proposta encontrada na fase de Garantia, processando...") 
+                    logging.debug("Proposta encontrada na fase de Garantia, processando...") 
                     self.locate_image(self.img_fase_garantia)
                     self.locate_image(self.img_abrir_proposta)
                     time.sleep(5)
@@ -274,7 +301,7 @@ class CancelCred:
                     start_time = time.time()
                     start_time_str = dt.now().strftime("%d/%m/%Y %H:%M:%S")
                     
-                    print("Proposta encontrada na fase de Estudo, processando...") 
+                    logging.debug("Proposta encontrada na fase de Estudo, processando...") 
                     self.locate_image(self.img_fase_estudo)
                     self.locate_image(self.img_abrir_proposta)
                     time.sleep(5) 
@@ -308,7 +335,7 @@ class CancelCred:
                     # break 
 
                 else:
-                    print("Nenhuma proposta para analisar, indo pra próxima fase...")
+                    logging.debug("Nenhuma proposta para analisar, indo pra próxima fase...")
                     break 
 
     def processar_imagem_e_extrair(self, image_path, output_path, fase = None, start_time = None, end_time = None, time_elapsed = None):
@@ -353,7 +380,7 @@ class CancelCred:
         if contrato_match:
             numero_proposta = contrato_match.group(0).strip()        
         
-        print(f'CPF:{cpf}; Valor:{valor_contrato}; PA:{pa}; Contrato:{numero_proposta}')
+        logging.debug(f'CPF:{cpf}; Valor:{valor_contrato}; PA:{pa}; Contrato:{numero_proposta}')
 
         return cpf, valor_contrato,  pa, numero_proposta
 
@@ -373,14 +400,14 @@ class CancelCred:
             existing_df = pd.read_excel(output_path)
             df = pd.concat([existing_df, df], ignore_index=True)
         except FileNotFoundError:
-            print(f'O arquivo {output_path} não foi encontrado. Criando um novo arquivo.')
+            logging.error(f'O arquivo {output_path} não foi encontrado. Criando um novo arquivo.')
 
         try:
             # Salvar o DataFrame atualizado (ou novo) no arquivo Excel
             df.to_excel(output_path, index=False)
-            print(f'Dados salvos com sucesso em {output_path}')
+            logging.info(f'Dados salvos com sucesso em {output_path}')
         except Exception as e:
-            print(f'Erro ao salvar os dados: {e}')
+            logging.error(f'Erro ao salvar os dados: {e}')
 
     # Função para fechar janela do sistema   
     def fechar_sistemas(self, qtd):
@@ -406,7 +433,7 @@ class CancelCred:
                     break                    
                 else:
                     tentativa += 1
-                    print(f"Imagem {img} não encontrada na tela.")
+                    logging.debug(f"Imagem {img} não encontrada na tela.")
                     time.sleep(delay)
             
             if encontrado and existe:
@@ -417,7 +444,7 @@ class CancelCred:
             return False
         
         except Exception as e:
-            print(f"Erro ao encontrar a imagem {img}!", e)  
+            logging.error(f"Erro ao encontrar a imagem {img}!", e)  
 
     def extract_text_from_image(self, image_path, config=None):
         # image = Image.open(image_path)
@@ -446,12 +473,12 @@ class CancelCred:
         screenshot = pyautogui.screenshot(region=(x, y, width, height))
         # Salva a imagem capturada
         screenshot.save(output_path)
-        print(f"Screenshot salvo como {output_path}")
+        logging.info(f"Screenshot salvo como {output_path}")
 
 
 if __name__=='__main__':
     cred = CancelCred()
-    cred.login_sisbr('usrcanpropost3120_00', 'Vostro%3120')
+    cred.login_sisbr('usuario', 'senha')
     cred.acessar_plt_cred()
     cred.open_consignado()
     cred.fechar_sistemas(2)

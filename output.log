@@ -1,0 +1,650 @@
+16/04/2025  8:19:33,03 - Iniciando o script 
+23/04/2025  7:10:18,39 - Iniciando o script 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\proposta.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\documentacao.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\garantia.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\estudo.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_fechar.png! 
+C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\cancelamento_proposta_emprestimo.py:377: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  df = pd.concat([existing_df, df], ignore_index=True)
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\proposta.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\documentacao.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\garantia.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\estudo.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Proposta encontrada na fase de Estudo, processando...
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\proposta_estudo.png
+CPF:None; Valor:None; PA:None; Contrato:None
+Dados salvos com sucesso em C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\dados_extraidos.xlsx
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_fechar.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\proposta.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\documentacao.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\garantia.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\estudo.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Proposta encontrada na fase de Estudo, processando...
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\proposta_estudo.png
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+CPF:034.966.428-58; Valor:R$ 500,00; PA:None; Contrato:258808851803
+Dados salvos com sucesso em C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\dados_extraidos.xlsx
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Proposta encontrada na fase de Estudo, processando...
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\proposta_estudo.png
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+CPF:052.337.329-55; Valor:R$ 30.000,00; PA:None; Contrato:259028811803
+Dados salvos com sucesso em C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\dados_extraidos.xlsx
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Proposta encontrada na fase de Estudo, processando...
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\proposta_estudo.png
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+CPF:027.109.726-46; Valor:R$ 200,00; PA:None; Contrato:259423531903
+Dados salvos com sucesso em C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\dados_extraidos.xlsx
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Proposta encontrada na fase de Estudo, processando...
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\proposta_estudo.png
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+CPF:048.588.476-32; Valor:R$ 850,00; PA:None; Contrato:251690362103
+Dados salvos com sucesso em C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\dados_extraidos.xlsx
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Proposta encontrada na fase de Estudo, processando...
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\proposta_estudo.png
+CPF:713.698.726-15; Valor:R$ 500,00; PA:None; Contrato:251389702103
+Dados salvos com sucesso em C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\dados_extraidos.xlsx
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_fechar.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\proposta.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\documentacao.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\garantia.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\estudo.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_fechar.png! 
+Executando cancelamento_proposta_consignado.py...
+Executando cancelamento_proposta_emprestimo.py...
+Executando cancelamento_proposta_limites.py...
+Executando cancelamento_proposta_rural.py...
+23/04/2025  7:24:18,88 - Script Finalizado 
+ 
+30/04/2025  7:10:19,07 - Iniciando o script 
+30/04/2025  7:12:42,90 - Iniciando o script 
+C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\cancelamento_proposta_consignado.py:374: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  df = pd.concat([existing_df, df], ignore_index=True)
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\proposta.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\documentacao.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\garantia.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\estudo.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Proposta encontrada na fase de Estudo, processando...
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\proposta_estudo.png
+CPF:None; Valor:None; PA:None; Contrato:None
+Dados salvos com sucesso em C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\dados_extraidos.xlsx
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_fechar.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\proposta.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\documentacao.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\garantia.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\estudo.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Proposta encontrada na fase de Estudo, processando...
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\proposta_estudo.png
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+CPF:636.781.521-04; Valor:R$ 10.827,71; PA:None; Contrato:254998202603
+Dados salvos com sucesso em C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\dados_extraidos.xlsx
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Proposta encontrada na fase de Estudo, processando...
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\proposta_estudo.png
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+CPF:576.962.096-04; Valor:R$ 30.901,16; PA:None; Contrato:259157112603
+Dados salvos com sucesso em C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\dados_extraidos.xlsx
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Proposta encontrada na fase de Estudo, processando...
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\proposta_estudo.png
+CPF:57.728.823/0001-55; Valor:R$ 5.000,00; PA:None; Contrato:256120062703
+Dados salvos com sucesso em C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\dados_extraidos.xlsx
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_fechar.png! 
+30/04/2025  7:21:44,55 - Iniciando o script 
+C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\cancelamento_proposta_consignado.py:374: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  df = pd.concat([existing_df, df], ignore_index=True)
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\proposta.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\documentacao.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\garantia.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\estudo.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Proposta encontrada na fase de Estudo, processando...
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\proposta_estudo.png
+CPF:None; Valor:None; PA:None; Contrato:None
+Dados salvos com sucesso em C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\dados_extraidos.xlsx
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_fechar.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\proposta.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\documentacao.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\garantia.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\estudo.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_fechar.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\proposta.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\documentacao.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\garantia.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\estudo.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Proposta encontrada na fase de Estudo, processando...
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\proposta_estudo.png
+CPF:None; Valor:R$ 3.000,00; PA:None; Contrato:2594971492603
+Dados salvos com sucesso em C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\dados_extraidos.xlsx
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_fechar.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\proposta.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\documentacao.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\garantia.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\estudo.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_fechar.png! 
+Executando cancelamento_proposta_consignado.py...
+Executando cancelamento_proposta_emprestimo.py...
+Executando cancelamento_proposta_limites.py...
+Executando cancelamento_proposta_rural.py...
+30/04/2025  7:32:10,03 - Script Finalizado 
+ 
+07/05/2025  7:10:17,95 - Iniciando o script 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\proposta.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\documentacao.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\garantia.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\estudo.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Proposta encontrada na fase de Estudo, processando...
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\proposta_estudo.png
+CPF:069.681.386-62; Valor:R$ 26.159,54; PA:None; Contrato:250549400304
+Dados salvos com sucesso em C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\dados_extraidos.xlsx
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_fechar.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\proposta.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Proposta encontrada na fase de Proposta, processando...
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\proposta_documentacao_.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\documentacao.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\garantia.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\estudo.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Proposta encontrada na fase de Estudo, processando...
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\proposta_estudo.png
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+CPF:121.377.996-00; Valor:R$ 13.630,53; PA:None; Contrato:259262740104
+Dados salvos com sucesso em C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\dados_extraidos.xlsx
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Proposta encontrada na fase de Estudo, processando...
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\proposta_estudo.png
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+CPF:040.342.836-02; Valor:R$ 3.094,66; PA:None; Contrato:250027760204
+Dados salvos com sucesso em C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\dados_extraidos.xlsx
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Proposta encontrada na fase de Estudo, processando...
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\proposta_estudo.png
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+CPF:123.106.916-31; Valor:R$ 5.244,74; PA:None; Contrato:250452350304
+Dados salvos com sucesso em C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\dados_extraidos.xlsx
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Proposta encontrada na fase de Estudo, processando...
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\proposta_estudo.png
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+CPF:645.429.206-15; Valor:R$ 23.513,35; PA:None; Contrato:251001810304
+Dados salvos com sucesso em C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\dados_extraidos.xlsx
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Proposta encontrada na fase de Estudo, processando...
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\proposta_estudo.png
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+CPF:130.780.536-10; Valor:R$ 31,82; PA:None; Contrato:251833740404
+Dados salvos com sucesso em C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\dados_extraidos.xlsx
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Proposta encontrada na fase de Estudo, processando...
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\proposta_estudo.png
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+CPF:073.991.246-12; Valor:R$ 3.627,68; PA:None; Contrato:252024310404
+Dados salvos com sucesso em C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\dados_extraidos.xlsx
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Proposta encontrada na fase de Estudo, processando...
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\proposta_estudo.png
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+CPF:165.563.746-01; Valor:R$ 46,50; PA:None; Contrato:252423820704
+Dados salvos com sucesso em C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\dados_extraidos.xlsx
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Proposta encontrada na fase de Estudo, processando...
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\proposta_estudo.png
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+CPF:37.642.245/0001-22; Valor:R$ 55.991,38; PA:None; Contrato:252448040704
+Dados salvos com sucesso em C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\dados_extraidos.xlsx
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Proposta encontrada na fase de Estudo, processando...
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\proposta_estudo.png
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+CPF:080.586.266-86; Valor:R$ 22.004,39; PA:None; Contrato:252600410704
+Dados salvos com sucesso em C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\dados_extraidos.xlsx
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Proposta encontrada na fase de Estudo, processando...
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\proposta_estudo.png
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+CPF:503.275.186-34; Valor:R$ 22.000,51; PA:None; Contrato:250433340304
+Dados salvos com sucesso em C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\dados_extraidos.xlsx
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Proposta encontrada na fase de Estudo, processando...
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\proposta_estudo.png
+CPF:049.039.996-70; Valor:R$ 90.868,20; PA:None; Contrato:253030630704
+Dados salvos com sucesso em C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\dados_extraidos.xlsx
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_fechar.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\proposta.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Proposta encontrada na fase de Proposta, processando...
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\proposta_documentacao_.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\documentacao.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\garantia.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\estudo.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Proposta encontrada na fase de Estudo, processando...
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\proposta_estudo.png
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+CPF:853.876.576-00; Valor:None; PA:None; Contrato:2592439440704
+Dados salvos com sucesso em C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\dados_extraidos.xlsx
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Proposta encontrada na fase de Estudo, processando...
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\proposta_estudo.png
+CPF:None; Valor:R$ 20.000,00; PA:None; Contrato:252492140704
+Dados salvos com sucesso em C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\dados_extraidos.xlsx
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_fechar.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\proposta.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\documentacao.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\garantia.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\estudo.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_fechar.png! 
+Executando cancelamento_proposta_consignado.py...
+Executando cancelamento_proposta_emprestimo.py...
+Executando cancelamento_proposta_limites.py...
+Executando cancelamento_proposta_rural.py...
+07/05/2025  7:32:42,28 - Script Finalizado 
+ 
+14/05/2025  7:10:19,23 - Iniciando o script 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\user.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\senha.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\plt_credito.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\consignado.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\operacao_credito.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\mesa_de_operacoes.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\data_prop_inicio.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\data_prop_final.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\abrir_fase.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\proposta.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\procurar.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\proposta.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\abrir_fase.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\documentacao.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\procurar.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\documentacao.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\abrir_fase.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\garantia.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\procurar.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\garantia.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\abrir_fase.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\estudo.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\procurar.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\estudo.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_fechar.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\user.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\senha.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\plt_credito.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\emprestimo.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\operacoes_credito.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\mesa_de_operacoes.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\data_prop_inicio.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\data_prop_final.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\abrir_fase.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\proposta.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\procurar.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\proposta.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\abrir_fase.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\documentacao.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\procurar.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\documentacao.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\abrir_fase.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\garantia.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\procurar.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\garantia.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\abrir_fase.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\estudo.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\procurar.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\estudo.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_fechar.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\user.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\senha.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\plt_credito.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\climites.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\antecipacao.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\mesa_de_operacoes.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\data_prop_inicio.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\data_prop_final.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\abrir_fase.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\proposta.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\procurar.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\proposta.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\abrir_fase.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\documentacao.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\procurar.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\documentacao.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\abrir_fase.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\garantia.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\procurar.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\garantia.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\abrir_fase.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\estudo.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\procurar.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\estudo.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_fechar.png! 
+^C15/05/2025 13:53:22,06 - Iniciando o script 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\proposta.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\documentacao.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Proposta encontrada na fase de Documentação, processando...
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\proposta_documentacao.png
+CPF:638.221.136-20; Valor:R$ 15.483,04; PA:None; Contrato:256376811104
+Dados salvos com sucesso em C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\dados_extraidos.xlsx
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\garantia.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\garantia.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\estudo.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+15/05/2025 14:03:39,30 - Iniciando o script 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\proposta.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\documentacao.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\garantia.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\estudo.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\proposta.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\documentacao.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\garantia.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\estudo.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Proposta encontrada na fase de Estudo, processando...
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\proposta_estudo.png
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+CPF:160.547.956-00; Valor:R$ 6.290,73; PA:None; Contrato:253576840804
+Dados salvos com sucesso em C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\dados_extraidos.xlsx
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Proposta encontrada na fase de Estudo, processando...
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\proposta_estudo.png
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_sim.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_fechar.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+CPF:160.547.956-00; Valor:R$ 1.545,27; PA:None; Contrato:2535946020804
+Dados salvos com sucesso em C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\dados_extraidos.xlsx
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\user.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\senha.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\plt_credito.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\climites.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\antecipacao.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\mesa_de_operacoes.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\data_prop_inicio.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\data_prop_final.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\abrir_fase.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\proposta.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\proposta.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\abrir_fase.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\documentacao.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\documentacao.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\abrir_fase.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\garantia.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\garantia.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\abrir_fase.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\estudo.png! 
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\estudo.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\proposta.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\documentacao.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_ok_proposta.png! 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\garantia.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Proposta encontrada na fase de Garantia, processando...
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\proposta_garantia.png
+CPF:083.249.898-03; Valor:R$ 880.000,00; PA:None; Contrato:258987421504
+Dados salvos com sucesso em C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\dados_extraidos.xlsx
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\estudo.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Executando cancelamento_proposta_consignado.py...
+Executando cancelamento_proposta_emprestimo.py...
+Executando cancelamento_proposta_limites.py...
+Executando cancelamento_proposta_rural.py...
+15/05/2025 14:14:17,84 - Script Finalizado 
+ 
+19/05/2025 10:27:26,48 - Iniciando o script 
+21/05/2025  7:10:18,42 - Iniciando o script 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\proposta.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\documentacao.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\garantia.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\estudo.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_fechar.png! 
+28/05/2025  7:10:18,68 - Iniciando o script 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\proposta.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\documentacao.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\garantia.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\estudo.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_fechar.png! 
+28/05/2025  7:15:20,92 - Iniciando o script 
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\proposta.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\documentacao.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\garantia.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Está na fase C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\estudo.png
+Screenshot salvo como C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\CancelamentoCredito\imagem_referencia.png
+Nenhuma proposta para analisar, indo pra próxima fase...
+Erro ao encontrar a imagem C:\Users\sicoob\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito\btn_fechar.png! 
+28/05/2025  7:20:27,34 - Iniciando o script 
