@@ -17,7 +17,7 @@ class CancelCred:
         self.usuario_logado = getpass.getuser()
         pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
         self.caminho_imagens = rf'C:\Users\{self.usuario_logado}\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Imagens_RPA\cancelamentocredito'
-        self.caminho_dir = rf'C:\Users\{self.usuario_logado}\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\boot_cancelamento_proposta'
+        self.caminho_dir = rf'C:\Users\{self.usuario_logado}\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\__arquivos\Cancelamento_Propostas'
         self.caminho_log = rf'C:\Users\{self.usuario_logado}\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Logs'
 
         self.img_user = os.path.join(self.caminho_imagens, 'user.png')
@@ -64,7 +64,7 @@ class CancelCred:
         logging.basicConfig(
             filename=os.path.join(self.caminho_log,'cancelamento_propostas.log'),
             filemode='a',
-            level=logging.INFO,
+            level=logging.DEBUG,
             format='%(asctime)s - %(levelname)s - %(message)s',
             datefmt='%d/%m/%Y %H:%M:%S'
         )
@@ -212,7 +212,7 @@ class CancelCred:
             self.locate_image(self.img_procurar)
             time.sleep(2)
             self.locate_image(self.img_btn_ok_2)
-            logging.debug(f'Está na fase {fase}')
+            logging.info(f'Está na fase {fase}')
             
             while True:
                 # Capturar a tela para verificar a presença de propostas
@@ -224,7 +224,7 @@ class CancelCred:
                 
                 # Verificar se o texto extraído contém a palavra-chave da proposta
                 if "Proposta" in screen_text_proposta :                            
-                    logging.debug("Proposta encontrada na fase de Proposta, processando...")               
+                    logging.info("Proposta encontrada na fase de Proposta, processando...")               
                     # Posicionar mouse e abrir a proposta
                     self.locate_image(self.img_fase_proposta)  
                     self.locate_image(self.img_abrir_proposta) 
@@ -250,7 +250,7 @@ class CancelCred:
                     start_time = time.time()
                     start_time_str = dt.now().strftime("%d/%m/%Y %H:%M:%S")
 
-                    logging.debug("Proposta encontrada na fase de Documentação, processando...") 
+                    logging.info("Proposta encontrada na fase de Documentação, processando...") 
                     self.locate_image(self.img_fase_documentacao)
                     self.locate_image(self.img_abrir_proposta)
                     time.sleep(5)                     
@@ -288,7 +288,7 @@ class CancelCred:
                     start_time = time.time()
                     start_time_str = dt.now().strftime("%d/%m/%Y %H:%M:%S")
 
-                    logging.debug("Proposta encontrada na fase de Garantia, processando...") 
+                    logging.info("Proposta encontrada na fase de Garantia, processando...") 
                     self.locate_image(self.img_fase_garantia)
                     self.locate_image(self.img_abrir_proposta)
                     time.sleep(5)
@@ -326,7 +326,7 @@ class CancelCred:
                     start_time = time.time()
                     start_time_str = dt.now().strftime("%d/%m/%Y %H:%M:%S")
                     
-                    logging.debug("Proposta encontrada na fase de Estudo, processando...") 
+                    logging.info("Proposta encontrada na fase de Estudo, processando...") 
                     self.locate_image(self.img_fase_estudo)
                     self.locate_image(self.img_abrir_proposta)
                     time.sleep(5) 
@@ -361,7 +361,7 @@ class CancelCred:
 
 
                 else:
-                    logging.debug("Nenhuma proposta para analisar, indo pra próxima fase...")
+                    logging.info("Nenhuma proposta para analisar, indo pra próxima fase...")
                     break 
 
     def processar_imagem_e_extrair(self, image_path, output_path, fase = None, start_time = None, end_time = None, time_elapsed = None):
@@ -404,7 +404,7 @@ class CancelCred:
         if contrato_match:
             numero_proposta = contrato_match.group(0).strip()        
         
-        logging.debug(f'CPF:{cpf}; Valor:{valor_contrato}; PA:{pa}; Contrato:{numero_proposta}')
+        logging.info(f'CPF:{cpf}; Valor:{valor_contrato}; PA:{pa}; Contrato:{numero_proposta}')
 
         return cpf, valor_contrato,  pa, numero_proposta
 
