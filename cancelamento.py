@@ -5,7 +5,7 @@ import logging
 
 scripts = ['cancelamento_proposta_consignado.py', 'cancelamento_proposta_emprestimo.py', 'cancelamento_proposta_limites.py','cancelamento_proposta_rural.py'] #'',cancelamento_proposta_emprestimo.py 
 usuario_logado = getpass.getuser()
-caminho_log = rf'C:\Users\{usuario_logado}\Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Logs'
+caminho_log = rf'C:\Users\{usuario_logado}\OneDrive - Sicoob Central Crediminas\3120 - Business Intelligence (B.I) - Geral\Automacoes\Logs'
 
 logging.basicConfig(
             filename=os.path.join(caminho_log,'cancelamento_propostas.log'),
